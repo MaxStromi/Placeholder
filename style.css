@@ -9,3 +9,11 @@ h1 {
   text-align: center;
   margin-top: -7.8px;
 }
+
+h2 {
+  color: black;
+  background-color: blue;
+  width: 15%;
+  height: 100px;
+  margin-top: -22px;
+}
