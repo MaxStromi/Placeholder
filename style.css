@@ -3,8 +3,16 @@ background-color: White;
 }
 
 h1 {
-  color: white;
-  background-color: skyblue;
+  color: yellow;
+  background-color: blue;
   width: 100%;
   text-align: center;
+}
+
+h2 {
+  color: black;
+  background-color: blue;
+  width: 20%;
+  Height: 100%;
+  text-align: top;
 }
