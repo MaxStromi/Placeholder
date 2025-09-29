@@ -16,9 +16,14 @@ h2 {
   width: 15%;
   height: 100px;
   margin-top: -22px;
+  margin-left: -10px;
 }
 h3 {
   color: black;
   background-color: DarkCyan;
+  width: 15%;
+  text-align: center;
+  margin-top: -20px;
+  margin-left: -10px;
 }
   
