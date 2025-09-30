@@ -5,7 +5,7 @@ background-color: White;
 h1 {
   color: yellow;
   background-color: DarkCyan;
-  width: 110%;
+  width: 100%;
   text-align: center;
   margin-top: -7.8px;
   margin-left: -9px;
@@ -42,7 +42,7 @@ h4 {
 h5 {
   color: black;
   background-color: darkcyan;
-  width: 110%;
+  width: 100%;
   text-align: center;
   margin-bottom: 20px;
 }
