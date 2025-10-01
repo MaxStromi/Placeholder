@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
 background-color: White;
 }
@@ -7,53 +13,27 @@ h1 {
   background-color: DarkCyan;
   width: 100%;
   text-align: center;
-  margin-top: -7.8px;
-  margin-left: -9px;
-  border-right-width: 9px;
-  border-right-style: solid;
-  border-color: darkcyan;
+  border-right: 9px solid DarkCyan;
+}
+
+h2, h3, h4 {
+  color: black;
+  background-color: DarkCyan;
+  width: 15%;
+  text-align: center;
 }
 
 h2 {
-  color: black;
-  background-color: DarkCyan;
-  width: 15%;
   height: 100px;
-  margin-top: -22px;
-  margin-left: -10px;
-  text-align: center;
 }
-h3 {
-  color: black;
-  background-color: DarkCyan;
-  width: 15%;
-  text-align: center;
-  margin-top: -20px;
-  margin-left: -10px;
-}
+
 h4 {
-  color: black;
-  background-color: darkcyan;
-  width: 15%;
-  margin-top: -19px;
-  margin-left: -10px;
-  text-align: center;
-  border-bottom-width: 545px;
-  border-bottom-style: solid;
-  border-color: darkcyan;
-  margin-bottom: 0;
+  padding-bottom: 545px;
 }
+
 h5 {
   color: black;
   background-color: darkcyan;
   width: 100%;
   text-align: center;
-  margin-top: -28.5px;
-  border-style: solid;
-  border-color: darkcyan;
-  margin-bottom: -10px;
-  margin-right-width: 0px;
-  margin-left-width: 0px;
-  border-bottom-width: 24.5px;
-  height: 1px;
 }
