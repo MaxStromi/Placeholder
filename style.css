@@ -5,10 +5,13 @@ background-color: White;
 h1 {
   color: yellow;
   background-color: DarkCyan;
-  width: 110%;
+  width: 100%;
   text-align: center;
   margin-top: -7.8px;
   margin-left: -9px;
+  border-right-width: 17px;
+  border-right-style: solid;
+  border-color: darkcyan;
 }
 
 h2 {
@@ -35,16 +38,19 @@ h4 {
   margin-top: -19px;
   margin-left: -10px;
   text-align: center;
-  border-bottom-width: 550px;
+  border-bottom-width: 545px;
   border-bottom-style: solid;
   border-color: darkcyan;
 }
 h5 {
   color: black;
   background-color: darkcyan;
-  width: 110%;
+  width: 100%;
   text-align: center;
-  margin-top: -30px;
-  border-bottom-width: 21px;
+  margin-top: -59px;
+  border-right-width: 8px;
+  border-right-style: solid;
   border-color: darkcyan;
+  margin-bottom: 0px;
+  border-bottom-width: 24.5px;
 }
