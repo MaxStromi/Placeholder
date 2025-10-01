@@ -31,12 +31,13 @@ h4 {
   padding-bottom: 545px;
 }
 
-h5 {
+h6 {
   color: black;
   background-color: darkcyan;
   width: 100%;
   text-align: center;
 }
+
 p1, p2 {
   color: black;
 }
