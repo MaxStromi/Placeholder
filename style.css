@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   margin-top: -7.8px;
   margin-left: -9px;
-  border-right-width: 17px;
+  border-right-width: 9px;
   border-right-style: solid;
   border-color: darkcyan;
 }
@@ -41,16 +41,19 @@ h4 {
   border-bottom-width: 545px;
   border-bottom-style: solid;
   border-color: darkcyan;
+  margin-bottom: 0;
 }
 h5 {
   color: black;
   background-color: darkcyan;
   width: 100%;
   text-align: center;
-  margin-top: -59px;
-  border-right-width: 8px;
-  border-right-style: solid;
+  margin-top: -28.5px;
+  border-style: solid;
   border-color: darkcyan;
-  margin-bottom: 0px;
+  margin-bottom: -10px;
+  margin-right-width: 0px;
+  margin-left-width: 0px;
   border-bottom-width: 24.5px;
+  height: 1px;
 }
